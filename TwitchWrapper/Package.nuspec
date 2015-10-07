@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TwitchAPIWrapper</id>
+    <version>1.0.0</version>
+    <authors>andy-c-jones</authors>
+    <owners>andy-c-jones</owners>
+    <licenseUrl>https://github.com/andy-c-jones/TwitchAPIWrapper/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/andy-c-jones/twitchapiwrapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple wrapper around v3 of the Twitch API. Work in progress, not to be used for anything meaningful.</description>
+    <copyright>Copyright 2015 Andrew Jones</copyright>
+    <tags>Twitch tv TwitchTV SDK wrapper api</tags>
+  </metadata>
+</package>
