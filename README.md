@@ -11,3 +11,8 @@ This is not a SDK. It provides no functionality other than just getting the data
 
 An SDK will come when this is more mature.
 
+To install TwitchAPIWrapper, run the following command in the Package Manager Console
+
+```PM> Install-Package TwitchAPIWrapper```
+
+
