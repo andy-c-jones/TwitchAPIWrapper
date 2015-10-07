@@ -1,6 +1,7 @@
 # TwitchAPIWrapper
 
 [![Build status](https://ci.appveyor.com/api/projects/status/elw5l0s2mqo3tti7?svg=true)](https://ci.appveyor.com/project/andy-c-jones/twitchapiwrapper)
+[![NuGet version](https://badge.fury.io/nu/TwitchAPIWrapper.svg)](https://badge.fury.io/nu/TwitchAPIWrapper)
 
 Kanban: [![Stories in Ready](https://badge.waffle.io/andy-c-jones/TwitchAPIWrapper.svg?label=ready&title=Ready)](http://waffle.io/andy-c-jones/TwitchAPIWrapper) 
 
