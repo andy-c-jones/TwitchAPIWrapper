@@ -2,6 +2,7 @@
 <package >
   <metadata>
     <id>TwitchAPIWrapper</id>
+    <version>$version$</version>
     <authors>andy-c-jones</authors>
     <owners>andy-c-jones</owners>
     <licenseUrl>https://github.com/andy-c-jones/TwitchAPIWrapper/blob/master/License.txt</licenseUrl>
