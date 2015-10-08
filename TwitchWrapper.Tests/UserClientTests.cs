@@ -63,5 +63,11 @@ namespace TwitchWrapper.Tests
         {
             Assert.That(_user.Logo, Is.EqualTo("http://static-cdn.jtvnw.net/jtv_user_pictures/test_user1-profile_image-ac0a2f0d39dda770-300x300.jpeg"));
         }
+
+        [Test]
+        public void ThenTheUrlToTheUsersChannelIsReturned()
+        {
+            Assert.That(_user.Links.First(i => i.Key == "self").Value, Is.EqualTo("https://api.twitch.tv/kraken/users/test_user1"));
+        }
     }
 }

@@ -13,5 +13,6 @@ namespace TwitchWrapper
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
         public string Logo { get; set; }
+        public Dictionary<string,string> Links { get; set; }
     }
 }
